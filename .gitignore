@@ -1,3 +1,2 @@
-.output
-bin
-app/user/user_config.h
+build/
+sdkconfig.old
